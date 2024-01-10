@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Bite Bound is a restaurant website that provides users with the ability to filter food items based on price and menu categories. Whether you're looking for budget-friendly options or specific menu categories, Bite Bound makes it easy to find the perfect meal.
+
 ![Screenshot](screenshot.jpg)
 ![Screenshot](./images/2.png)
 ![Screenshot](./images/3.png)
