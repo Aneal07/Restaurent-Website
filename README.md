@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 ![Screenshot](screenshot.jpg)
+![Screenshot](./images/2.png)
+![Screenshot](./images/3.png)
 ## [Live site](https://aneal07.github.io/Restaurent-Website/)
 
 
